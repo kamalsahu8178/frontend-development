@@ -24,7 +24,3 @@ let see=[5,7,4,7,9,]
 let newarr=[...arr,...see];
 console.log(newarr)
 
-// // dob sir ka dakh
-// // 24-9-1998
-// 30 min bache h BaseAudioContext
-// hno 41 naybaste ,odissa
