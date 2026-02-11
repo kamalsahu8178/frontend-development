@@ -7,7 +7,7 @@ console.log(heading.textContent);
 heading.textContent="hello world"
 
 
-const subHeading= document.getElementsByClassName("sub-heading");
+const subHeading = document.getElementsByClassName("sub-heading");
 console.log(subHeading);
 
 for(let i=0;i<subHeading.length;i++){
